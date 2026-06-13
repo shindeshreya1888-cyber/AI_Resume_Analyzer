@@ -10,10 +10,12 @@ An AI-powered Streamlit web application that analyzes resumes and provides ATS s
 🥧 Pie chart visualization of skills
 📈 Progress bar for job match
 🎯 Clean dashboard UI using Streamlit
+
 🛠️ Tech Stack
 Python 🐍
 Streamlit ⚡
 Matplotlib 📊
+
 📊 How It Works
 Upload your resume (PDF)
 App analyzes resume data
@@ -22,6 +24,7 @@ ATS Score
 Skills Found vs Missing
 Job Match %
 Displays results using charts and metrics
+
 🎯 Future Improvements
 🤖 AI-based skill extraction using NLP / Gemini AI
 📄 Job description matching
